@@ -24,7 +24,7 @@ selection = input(question2)
 
 if int(selection) == 1:
     print("Well done, you have selected number 1. ")
-elif int(selection) == 2:
+elif int(selection) == 2
     print("Darn, well you're still number 1 in our hearts")
 else:
     print("I don't understand")
